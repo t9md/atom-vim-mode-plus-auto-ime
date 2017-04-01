@@ -1,0 +1,22 @@
+{
+  "name": "vim-mode-plus-auto-ime",
+  "main": "./lib/vim-mode-plus-auto-ime",
+  "version": "0.0.0",
+  "description": "automatically change ime when vim mode changes",
+  "keywords": [
+  ],
+  "repository": "https://github.com/xream/atom-vim-mode-plus-auto-ime",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "vim-mode-plus": {
+      "versions": {
+        "^0.1.0": "consumeVim"
+      }
+    }
+  },
+  "dependencies": {
+  }
+}
