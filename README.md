@@ -10,6 +10,8 @@ https://github.com/vovkasm/input-source-switcher
 
 The custom command: `/usr/local/bin/issw com.apple.keylayout.US`
 
+![](https://i.imgur.com/fLDgK2Z.png)
+
 2. Keyboard Maestro: `osascript -e 'tell application "Keyboard Maestro Engine" to do script "set input method to en"'`.
 
 ![](http://i.imgur.com/9tw8CKy.png)
