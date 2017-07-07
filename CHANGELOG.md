@@ -1,3 +1,7 @@
+## 2.2.0
+
+* remain the input source when the active editor changes
+
 ## 2.1.0
 
 * we can switch back to the last input source we use in insert mode
